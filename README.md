@@ -1,2 +1,2 @@
-# stepik---auto-tests-course
-HW for stepik
+# stepik-auto-tests-course
+stepik homework
